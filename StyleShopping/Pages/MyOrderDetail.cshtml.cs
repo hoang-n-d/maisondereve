@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Service.Implementation;
 using Service.Interface;
-using StyleShopping.DTO;
 
 namespace StyleShopping.Pages
 {

@@ -1,0 +1,22 @@
+﻿@using BussinessObject.Enum
+@model Tuple<int>
+@if (Model.Item1 == (int)EnumOrderStatus.Cancelled)
+{
+    <span>Cancelled</span>
+}
+else if (Model.Item1 == (int)EnumOrderStatus.Approved)
+{
+    <span>Approved</span>
+}
+else if (Model.Item1 == (int)EnumOrderStatus.Processing)
+{
+    <span>Processing</span>
+}
+else if (Model.Item1 == (int)EnumOrderStatus.Delivery)
+{
+    <span>Delivery</span>
+}
+else if (Model.Item1 == (int)EnumOrderStatus.Completed)
+{
+    <span>Completed</span>
+}

@@ -1,4 +1,3 @@
-using BussinessObject;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Service.Implementation;
@@ -14,7 +13,7 @@ namespace StyleShopping.Pages
         {
             quotationService = new QuotationService();
         }
-        public IActionResult OnGetAsync(int id,int? quantity)
+        public IActionResult OnGetAsync(int id, int? quantity)
         {
             if (HttpContext.Session.GetInt32("user_id") == null)
             {
@@ -27,12 +26,12 @@ namespace StyleShopping.Pages
             int a_id = (int)HttpContext.Session.GetInt32("user_id");
             new AddCartRequest().AddCart(id, 1, a_id);
             return RedirectToPage("./Index");
-            
+
 
 
         }
-       
 
-        
+
+
     }
 }

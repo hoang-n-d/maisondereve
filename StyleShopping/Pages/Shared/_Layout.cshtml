@@ -73,11 +73,14 @@
                                     else if (role == 1)
                                     {
                                         <li class="dropdown">
+                                            <a href="/Admin/ManageDashboard">Dashboard</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="/Admin/ManageCategory">Category</a>
+                                        </li>
+                                        <li class="dropdown">
                                             <a href="/Admin/ManageInterior">Interior</a>
                                         </li>
-                                        @* <li class="dropdown">
-                                    <a href="/Admin/ManageStyle">Style</a>
-                                    </li> *@
                                         <li class="dropdown">
                                             <a href="/Admin/ManageProject">Project</a>
                                         </li>
@@ -266,8 +269,8 @@
         </footer>
     }
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)

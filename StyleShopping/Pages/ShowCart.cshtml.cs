@@ -1,7 +1,6 @@
 using BussinessObject;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using Service.Implementation;
 using Service.Interface;
 
@@ -38,14 +37,14 @@ namespace StyleShopping.Pages
             }
             int a_id = (int)HttpContext.Session.GetInt32("user_id");
             list = quotationService.GetCart(a_id);
-            if(list != null)
+            if (list != null)
             {
                 foreach (var item in list)
                 {
                     total += (int)item.Quantity * (int)item.Interior.Price;
                 }
             }
-            
+
             listS = styleService.List();
             listW = quotationService.GetAllWall();
             listT = quotationService.GetAllTypeHouse();
@@ -98,6 +97,6 @@ namespace StyleShopping.Pages
             quotationService.RemoveQuotation(a_id);
             return RedirectToPage("./MyOrder");
         }
-         
+
     }
 }

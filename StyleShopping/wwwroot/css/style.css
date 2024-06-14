@@ -144,7 +144,7 @@ p,.text{
 ::-moz-input-placeholder{color: inherit;}
 ::-ms-input-placeholder{color: inherit;}
 
-.auto-container{
+.auto-container {
 	position:static;
 	max-width:1200px;
 	padding:0px 15px;
@@ -1171,7 +1171,7 @@ img{
 
 .header-style-two .header-lower .auto-container{
 	position: relative;
-	max-width: 1170px;
+	/*max-width: 1170px;*/
 }
 
 

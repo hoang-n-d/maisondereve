@@ -1975,19 +1975,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ngusi\\.nuget\\packages\\": {}
+    "C:\\Users\\vietd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\BussinessObject\\BussinessObject.csproj",
+      "projectUniqueName": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj",
       "projectName": "BussinessObject",
-      "projectPath": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\BussinessObject\\BussinessObject.csproj",
-      "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\BussinessObject\\obj\\",
+      "projectPath": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj",
+      "packagesPath": "C:\\Users\\vietd\\.nuget\\packages\\",
+      "outputPath": "D:\\MMO\\maisondereve\\BussinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vietd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1995,7 +1995,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2046,7 +2045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

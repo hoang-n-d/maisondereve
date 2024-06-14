@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace BussinessObject
+﻿namespace BussinessObject
 {
     public partial class TypeHouse
     {

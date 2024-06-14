@@ -31,7 +31,7 @@ namespace StyleShopping.Pages
             string username = Request.Form["username"];
             string password = Request.Form["password"];
             var account = accountService.getByNameAndPass(username, password);
-            if(account == null)
+            if (account == null)
             {
                 error = "Wrong Account";
                 return Page();
@@ -44,7 +44,7 @@ namespace StyleShopping.Pages
                 {
                     return RedirectToPage("/Index");
                 }
-                else if(account.Role == 1)
+                else if (account.Role == 1)
                 {
                     return RedirectToPage("/Admin/ManageInterior");
                 }
@@ -52,10 +52,10 @@ namespace StyleShopping.Pages
                 {
                     return RedirectToPage("/Staff/BlogManage");
                 }
-               
-               
+
+
             }
-            
+
         }
         public IActionResult OnPostSubmitAsync()
         {

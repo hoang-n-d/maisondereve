@@ -1,0 +1,45 @@
+﻿@page
+@model StyleShopping.Pages.Admin.ManageCategory
+
+<section class="cart-section">
+    <div class="auto-container">
+        <div class="cart-outer">
+            <div class="table-outer">
+                <a class="theme-btn btn-style-one" asp-page="AddCategory">Create</a>
+                <table class="cart-table">
+                    <thead class="cart-header">
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Categories.List)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>
+                                    <a asp-page="EditCategory" asp-route-id="@item.Id" class="remove-btn"><span class="fa fa-pencil"></span></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="styled-pagination mt-2">
+                    <ul class="clearfix">
+                        @for (int i = 1; i <= Model.Categories.TotalPages; i++)
+                        {
+                            <li class="@(Model.indexPage == i ? "active":"")"><a asp-page="ManageCategory" asp-route-page="@i">@i</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </div>
+</section>

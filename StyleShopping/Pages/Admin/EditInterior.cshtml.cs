@@ -45,7 +45,7 @@ namespace StyleShopping.Pages.Admin
             foreach (var item in interService.ListAdmin())
             {
                 count++;
-                if(item.Id == interior.Id)
+                if (item.Id == interior.Id)
                 {
                     break;
                 }
@@ -53,7 +53,7 @@ namespace StyleShopping.Pages.Admin
             interior.Status = 1;
             int? indexPage = (count - 1) / 5 + 1;
             interService.Update(interior);
-            
+
             return RedirectToPage("ManageInterior", new { id = indexPage });
         }
     }

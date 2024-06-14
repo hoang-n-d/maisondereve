@@ -2,18 +2,14 @@
 using Repository.Implementation;
 using Repository.Interface;
 using Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Service.Implementation
 {
     public class InteriorService : IInteriorService
     {
         private IInteriorRepository _repository;
-        public InteriorService() {
+        public InteriorService()
+        {
             _repository = new InteriorRepository();
         }
         public void Add(Interior interior) => _repository.Add(interior);
@@ -25,8 +21,8 @@ namespace Service.Implementation
         public List<Interior> List(int? cate_id)
         {
             List<Interior> list = _repository.List();
-            if(cate_id != null)
-            { 
+            if (cate_id != null)
+            {
                 list = _repository.ListByCate(cate_id);
             }
             return list;

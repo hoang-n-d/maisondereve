@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Service.Implementation;
 using Service.Interface;
-using System.Reflection.Metadata.Ecma335;
 
 namespace StyleShopping.Pages
 {
@@ -19,7 +18,7 @@ namespace StyleShopping.Pages
         }
         public IActionResult OnGetAsync(int? id)
         {
-            indexPage = id == null ? 1: id;
+            indexPage = id == null ? 1 : id;
             list = styleService.List();
             if (list.Count() % 3 == 0)
             {

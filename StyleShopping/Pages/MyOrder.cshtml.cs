@@ -42,8 +42,8 @@ namespace StyleShopping.Pages
                         o.address = item.Address;
                         o.phone = item.Phone;
                         o.note = item.Note;
-                        o.totalStylePrice = ((int)item.Height * (int)item.Width) * ((int)item.Style.PricePerSquare + (int)item.Ceil.PricePerSquare + (int)item.TypeHouse.PricePerSquare+(int)item.Background.PricePerSquare ) + 
-                            ((int)item.Long + (int)item.Width)*(int)item.Height*2*(int)item.Wall.PricePerSquare;
+                        o.totalStylePrice = ((int)item.Height * (int)item.Width) * ((int)item.Style.PricePerSquare + (int)item.Ceil.PricePerSquare + (int)item.TypeHouse.PricePerSquare + (int)item.Background.PricePerSquare) +
+                            ((int)item.Long + (int)item.Width) * (int)item.Height * 2 * (int)item.Wall.PricePerSquare;
                         o.status = (int)item.Status;
                         var details = quotationService.GetAllOrderDetail(item.OrderId);
                         foreach (var i in details)
@@ -57,10 +57,11 @@ namespace StyleShopping.Pages
 
                 return Page();
             }
-            catch(Exception ex) {
+            catch (Exception ex)
+            {
                 return Page();
             }
-           
+
         }
     }
 }

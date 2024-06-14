@@ -1,9 +1,4 @@
 ﻿using BussinessObject;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Repository.Interface
 {
@@ -29,6 +24,8 @@ namespace Repository.Interface
 
         public void ApproveOrder(int id);
 
+        public void ChangeOrderStatus(int id, int status);
+
         public QuotationDetail GetQuotationDetail(int id);
 
         public void AddOrder(Order o, List<QuotationDetail> list);
@@ -47,5 +44,7 @@ namespace Repository.Interface
         public List<Background> GetAllBackground();
 
         public List<Wall> GetAllWall();
+
+        public OrderStatiscal OrderStatiscal();
     }
 }

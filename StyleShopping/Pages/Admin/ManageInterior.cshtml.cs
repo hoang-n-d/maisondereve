@@ -9,7 +9,7 @@ namespace StyleShopping.Pages.Admin
     public class ManageInteriorModel : PageModel
     {
         public IEnumerable<Interior> list { get; set; } = default!;
-       
+
         private readonly IInteriorService interService;
 
         public int totalPage { get; set; } = default!;
@@ -30,7 +30,7 @@ namespace StyleShopping.Pages.Admin
             {
                 return RedirectToPage("/AccessDenied");
             }
-            list = interService.ListAdmin(); 
+            list = interService.ListAdmin();
             if (list.Count() % 5 == 0)
             {
                 totalPage = list.Count() / 5;
@@ -50,6 +50,6 @@ namespace StyleShopping.Pages.Admin
             }
             return Page();
         }
-        
+
     }
 }

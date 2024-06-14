@@ -79,7 +79,7 @@ namespace StyleShopping.DAO
             return interiors;
 
         }
-        
+
         public List<Category> ListCategory()
         {
             List<Category> categories;

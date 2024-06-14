@@ -1,10 +1,6 @@
 ﻿using BussinessObject;
+using BussinessObject.Enum;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAO
 {
@@ -28,9 +24,6 @@ namespace DAO
 
             }
         }
-
-
-
         public Quotation GetQuotationUser(int userID)
         {
             Quotation quotation = null;
@@ -128,7 +121,7 @@ namespace DAO
         }
         public List<OrderDetail> GetAllOrderDetail(int id)
         {
-            List<OrderDetail> list = new ();
+            List<OrderDetail> list = new();
             try
             {
                 using (var MySale = new styleContext())
@@ -181,7 +174,7 @@ namespace DAO
             {
                 using (var MySale = new styleContext())
                 {
-                   
+
                     list = MySale.TypeHouses.ToList();
                 }
             }
@@ -283,7 +276,7 @@ namespace DAO
             {
                 using (var MySale = new styleContext())
                 {
-                    var q = MySale.QuotationDetails.FirstOrDefault(X => X.QuotationDetailId == id); 
+                    var q = MySale.QuotationDetails.FirstOrDefault(X => X.QuotationDetailId == id);
                     MySale.QuotationDetails.Remove(q);
                     MySale.SaveChanges();
                 }
@@ -293,7 +286,7 @@ namespace DAO
                 throw new Exception(e.Message);
             }
         }
-        public void AddOrder(Order o,List<QuotationDetail> list)
+        public void AddOrder(Order o, List<QuotationDetail> list)
         {
             try
             {
@@ -311,7 +304,7 @@ namespace DAO
                             Quantity = item.Quantity,
                             OrderId = o.OrderId
                         };
-                        MySale.OrderDetails.Add(od); 
+                        MySale.OrderDetails.Add(od);
                     }
 
                     MySale.SaveChanges();
@@ -356,7 +349,21 @@ namespace DAO
                 throw new Exception(e.Message);
             }
         }
-
+        public void ChangeOrderStatus(int id, int status)
+        {
+            try
+            {
+                using var _context = new styleContext();
+                var order = _context.Orders.FirstOrDefault(x => x.OrderId == id) ?? throw new Exception("Order not found");
+                order.Status = status;
+                _context.Orders.Update(order);
+                _context.SaveChanges();
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+        }
         public void RemoveQuotation(int userID)
         {
             try
@@ -374,6 +381,41 @@ namespace DAO
             {
                 throw new Exception(e.Message);
             }
+        }
+        public OrderStatiscal OrderStatiscal()
+        {
+            OrderStatiscal orderStatiscal = new();
+            try
+            {
+                using var _context = new styleContext();
+
+                var orderStatus = new List<OrderStatus>
+               {
+                    new() { Status = EnumOrderStatus.Cancelled },
+                    new() { Status = EnumOrderStatus.Pending },
+                    new() { Status = EnumOrderStatus.Approved },
+                    new() { Status = EnumOrderStatus.Processing },
+                    new() { Status = EnumOrderStatus.Delivery },
+                    new() { Status = EnumOrderStatus.Completed },
+               };
+
+                // Group và count theo status
+                var groupedOrders = _context.Orders
+                    .GroupBy(order => order.Status)
+                    .Select(group => new OrderStatusCount
+                    {
+                        Status = group.Key.Value,
+                        Count = group.Count()
+                    }).ToList();
+
+                orderStatiscal.OrderStatusCount = groupedOrders;
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+
+            return orderStatiscal;
         }
     }
 }

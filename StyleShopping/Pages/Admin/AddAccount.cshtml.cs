@@ -40,7 +40,8 @@ namespace StyleShopping.Pages.Admin
             {
                 return RedirectToPage("/AccessDenied");
             }
-            if(accountService.getByName(account.Username) != null) { 
+            if (accountService.getByName(account.Username) != null)
+            {
                 error = "Username : " + account.Username + " already exist";
                 return Page();
             }

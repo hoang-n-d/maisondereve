@@ -1,11 +1,6 @@
 ﻿using BussinessObject;
 using DAO;
 using Repository.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Repository.Implementation
 {
@@ -19,7 +14,7 @@ namespace Repository.Implementation
 
         public void AddQuotationDetail(QuotationDetail detail) => QuotationDAO.Instance.AddQuotationDetail(detail);
 
-        public QuotationDetail GetQuotationDetail(int id,int productID) => QuotationDAO.Instance.GetQuotationDetail(id,productID);
+        public QuotationDetail GetQuotationDetail(int id, int productID) => QuotationDAO.Instance.GetQuotationDetail(id, productID);
 
         public void UpdateQuotationDetail(QuotationDetail detail) => QuotationDAO.Instance.UpdateQuotationDetail(detail);
 
@@ -49,6 +44,13 @@ namespace Repository.Implementation
 
         public void ApproveOrder(int id) => QuotationDAO.Instance.ApproveOrder(id);
 
+        public void ChangeOrderStatus(int id, int status) => QuotationDAO.Instance.ChangeOrderStatus(id, status);
+
         public List<Order> GetAllOrderAdmin() => QuotationDAO.Instance.GetAllOrderAdmin();
+
+        public OrderStatiscal OrderStatiscal()
+        {
+            return QuotationDAO.Instance.OrderStatiscal();
+        }
     }
 }

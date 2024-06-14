@@ -1,13 +1,7 @@
 ﻿using BussinessObject;
-using DAO;
 using Repository.Implementation;
 using Repository.Interface;
 using Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Service.Implementation
 {
@@ -26,7 +20,7 @@ namespace Service.Implementation
 
         public void AddQuotationDetail(QuotationDetail detail)
         {
-             _repository.AddQuotationDetail(detail);
+            _repository.AddQuotationDetail(detail);
         }
 
         public Quotation GetQuotationUser(int userID)
@@ -34,7 +28,7 @@ namespace Service.Implementation
             return _repository.GetQuotationUser(userID);
         }
 
-        public QuotationDetail GetQuotationDetail(int id,int productID)
+        public QuotationDetail GetQuotationDetail(int id, int productID)
         {
             return _repository.GetQuotationDetail(id, productID);
         }
@@ -61,12 +55,12 @@ namespace Service.Implementation
 
         public void AddOrder(Order o, List<QuotationDetail> list)
         {
-            _repository.AddOrder(o,list);
+            _repository.AddOrder(o, list);
         }
 
         public void RemoveQuotation(int userID)
         {
-           _repository.RemoveQuotation(userID);
+            _repository.RemoveQuotation(userID);
         }
         public List<Order> GetAllOrder(int user_id)
         {
@@ -110,12 +104,22 @@ namespace Service.Implementation
 
         public void CancelOrder(int id)
         {
-           _repository.CancelOrder(id);
+            _repository.CancelOrder(id);
         }
 
         public void ApproveOrder(int id)
         {
             _repository.ApproveOrder(id);
+        }
+
+        public void ChangeOrderStatus(int id, int status)
+        {
+            _repository.ChangeOrderStatus(id, status);
+        }
+
+        public OrderStatiscal OrderStatiscal()
+        {
+            return _repository.OrderStatiscal();
         }
     }
 }

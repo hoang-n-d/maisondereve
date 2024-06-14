@@ -18,12 +18,12 @@ namespace StyleShopping.Pages
 
         public int? original_cate { get; set; } = 0;
         public IndexModel()
-        { 
+        {
             interService = new InteriorService();
         }
-        public IActionResult OnGetAsync(int? id1,int? id2)
+        public IActionResult OnGetAsync(int? id1, int? id2)
         {
-            if(original_cate != id1 && id1 != null)
+            if (original_cate != id1 && id1 != null)
             {
                 indexPage = 1;
             }
@@ -32,7 +32,7 @@ namespace StyleShopping.Pages
                 indexPage = id2 == null ? 1 : id2;
             }
             cate_id = id1;
-            
+
             list = interService.List(cate_id);
             if (list.Count() % 6 == 0)
             {
@@ -40,19 +40,19 @@ namespace StyleShopping.Pages
             }
             else
             {
-                totalPage = (list.Count() / 6)+1;
+                totalPage = (list.Count() / 6) + 1;
             }
 
-            if(indexPage != totalPage)
+            if (indexPage != totalPage)
             {
-                list = list.Skip(((int)indexPage-1)*6).Take(6);    
+                list = list.Skip(((int)indexPage - 1) * 6).Take(6);
             }
             else
             {
                 list = list.Skip(((int)indexPage - 1) * 6).Take(6);
             }
             original_cate = cate_id;
-             Categories = interService.ListCategory();
+            Categories = interService.ListCategory();
             return Page();
         }
     }

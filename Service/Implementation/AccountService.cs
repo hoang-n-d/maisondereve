@@ -2,11 +2,6 @@
 using Repository.Implementation;
 using Repository.Interface;
 using Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Service.Implementation
 {
@@ -19,7 +14,7 @@ namespace Service.Implementation
         }
         public Account getByNameAndPass(string username, string password)
         {
-            return _repository.getByNameAndPass(username, password);   
+            return _repository.getByNameAndPass(username, password);
         }
         public Account getByName(string username)
         {

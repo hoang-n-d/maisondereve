@@ -1,0 +1,13 @@
+﻿@using BussinessObject.Enum
+@* orderId, orderStatus, callback *@
+@model Tuple<int, int, string>
+@{
+    List<int> orderStatus = Enum.GetValues(typeof(EnumOrderStatus)).Cast<int>().Where(x => x != Model.Item2).ToList();
+}
+
+<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    @foreach (var item in orderStatus)
+    {
+        <a class="dropdown-item" asp-page="ChangeOrderStatus" asp-route-id="@Model.Item1" asp-route-status="@item" asp-route-callback="@Model.Item3">@((EnumOrderStatus)item)</a>
+    }
+</div>

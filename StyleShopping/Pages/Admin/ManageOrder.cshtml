@@ -32,38 +32,19 @@
                                     <td>@item.address</td>
                                     <td>@item.phone</td>
                                     <td>
-                                        @if (item.status == 1)
-                                        {
-                                            <span>
-                                                Pending
-                                            </span>
-                                        }
-                                        else if (item.status == 0)
-                                        {
-                                            <span>
-                                                Cancel
-                                            </span>
-                                        }
-                                        else
-                                        {
-                                            <span>
-                                                Approve
-                                            </span>
-                                        }
+                                        <div class="dropdown">
+                                            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                @await Html.PartialAsync("_OrderStatus", new Tuple<int>(item.status))
+                                            </a>
+                                            @await Html.PartialAsync("_ChangeOrderStatus", new Tuple<int, int, string>(item.id, item.status, "ManageOrder"))
+                                        </div>
                                     </td>
                                     <td>
-                                        @if (item.status == 1)
-                                        {
-                                            <a asp-page="./ApproveOrder" asp-route-id="@item.id" class="remove-btn"><span class="fa fa-bookmark">Approve</span> | </a>
-                                        }
                                         <a asp-page="./OrderDetail" asp-route-id="@item.id"><span class="fa fa-eye"></span></a>
-
                                     </td>
                                 </tr>
                             }
                         }
-
-
                     </tbody>
                 </table>
             </div>

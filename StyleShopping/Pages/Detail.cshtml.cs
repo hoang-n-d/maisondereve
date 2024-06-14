@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Service.Implementation;
 using Service.Interface;
 using StyleShopping.HandleRequest;
-using System.Reflection.Metadata;
 
 namespace StyleShopping.Pages
 {
