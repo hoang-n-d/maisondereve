@@ -7,12 +7,15 @@
       "destination": "wwwroot/lib/bootstrap/"
     },
     {
-      "provider": "cdnjs",
       "library": "jquery@3.7.1",
       "destination": "wwwroot/lib/jquery/",
       "files": [
         "jquery.min.js"
       ]
+    },
+    {
+      "library": "font-awesome@6.5.2",
+      "destination": "wwwroot/lib/font-awesome/"
     }
   ]
 }
