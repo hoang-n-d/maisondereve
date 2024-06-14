@@ -9505,7 +9505,7 @@ header-style-seven .nav-toggler:hover{
 }
 
 .main-footer .links-widget .list li:before{
-	position: absolute;
+	/*position: absolute;
 	left: 0;
 	top: 0;
 	height: 20px;
@@ -9514,7 +9514,7 @@ header-style-seven .nav-toggler:hover{
 	color: #ffffff;
 	font-weight: 400;
 	content: "\f22b";
-	font-family: "FontAwesome";
+	font-family: "FontAwesome";*/
 }
 
 .main-footer .links-widget .list li a{
