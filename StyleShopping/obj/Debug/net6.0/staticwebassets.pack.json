@@ -1,0 +1,893 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StyleShopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StyleShopping.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-switcher-design.css",
+      "PackagePath": "staticwebassets\\css\\color-switcher-design.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\blue-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\blue-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\brown-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\brown-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\default-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\default-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\green-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\green-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\orange-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\orange-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\purple-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\purple-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\redd-color.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\redd-color.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\color-themes\\teal-theme.css",
+      "PackagePath": "staticwebassets\\css\\color-themes\\teal-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\mCSB_buttons.html",
+      "PackagePath": "staticwebassets\\css\\mCSB_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\background\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\10.png",
+      "PackagePath": "staticwebassets\\images\\clients\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\6.png",
+      "PackagePath": "staticwebassets\\images\\clients\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\7.png",
+      "PackagePath": "staticwebassets\\images\\clients\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\8.png",
+      "PackagePath": "staticwebassets\\images\\clients\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\clients\\9.png",
+      "PackagePath": "staticwebassets\\images\\clients\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\help-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\help-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-dot.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-dot.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-dots-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-dots-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-dots.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-dots.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-flower.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-flower.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-lines-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-lines-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-lines.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-lines.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\icon-select.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-select.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\pentagon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pentagon.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\shap-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\shap-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\shape-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\icons\\tick.png",
+      "PackagePath": "staticwebassets\\images\\icons\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo-small.png",
+      "PackagePath": "staticwebassets\\images\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\Logo_1-Trắng.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo_1-Trắng.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\Logo_1-Đen.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo_1-Đen.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\Logo_2-Trắng.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo_2-Trắng.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\Logo_2-Đen.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo_2-Đen.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\Mascot.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Mascot.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\logo\\main.png",
+      "PackagePath": "staticwebassets\\images\\logo\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-10.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-4.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-5.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-6.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-7.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-8.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\main-slider\\image-9.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\image-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\alphabet-image.png",
+      "PackagePath": "staticwebassets\\images\\resource\\alphabet-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\author-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\author-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\author-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\blog-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\brochure-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\brochure-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\faq-img.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\faq-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\mobile-app.png",
+      "PackagePath": "staticwebassets\\images\\resource\\mobile-app.png"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\news-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\paypal.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\post-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\prod-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\prod-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\prod-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\prod-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\products\\prod-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\prod-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-single-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-single-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-single-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-single-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\project-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\service-detail.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\special-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\special-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\team-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\video-img.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\images\\resource\\work-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\work-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\appear.js",
+      "PackagePath": "staticwebassets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\color-settings.js",
+      "PackagePath": "staticwebassets\\js\\color-settings.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\validate.js",
+      "PackagePath": "staticwebassets\\js\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ngusi\\Desktop\\StyleShopping (1)\\StyleShopping\\StyleShopping\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StyleShopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StyleShopping.props",
+      "PackagePath": "build\\StyleShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StyleShopping.props",
+      "PackagePath": "buildMultiTargeting\\StyleShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StyleShopping.props",
+      "PackagePath": "buildTransitive\\StyleShopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

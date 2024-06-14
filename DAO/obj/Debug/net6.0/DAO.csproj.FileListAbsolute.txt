@@ -1,0 +1,45 @@
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.csproj.Up2Date
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\DAO\obj\Debug\net6.0\ref\DAO.dll

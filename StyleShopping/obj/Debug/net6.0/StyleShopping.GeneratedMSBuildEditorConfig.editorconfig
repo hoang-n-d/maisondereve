@@ -1,0 +1,311 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StyleShopping
+build_property.RootNamespace = StyleShopping
+build_property.ProjectDir = C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\StyleShopping\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\StyleShopping
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/AddCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ActiveAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ActiveBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ActiveInterior.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlSW50ZXJpb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ActiveProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ActiveStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlU3R5bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/AddAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/AddBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/AddInterior.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkSW50ZXJpb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/AddProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/AddStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkU3R5bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ApproveOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXBwcm92ZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BeStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmVTdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BeUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BlockAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BlockBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BlockInterior.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tJbnRlcmlvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BlockProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/BlockStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tTdHlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/EditAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/EditBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/EditInterior.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEludGVyaW9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/EditProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/EditStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFN0eWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageInterior.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlSW50ZXJpb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/ManageStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlU3R5bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Admin/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/CancelOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuY2VsT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/DetailBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/DetailProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/DetailStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsU3R5bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/MyOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/MyOrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlckRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/RemoveCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVtb3ZlQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/ShowCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/BlogActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0FjdGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/BlogAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/BlogBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0Jsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/BlogEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/BlogManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ01hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/InteriorActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JBY3RpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/InteriorAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/InteriorBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/InteriorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/InteriorManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/ProjectActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEFjdGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/ProjectAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/ProjectBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/ProjectEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Staff/ProjectManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdE1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Style.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R5bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/UpdateCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngusi/Desktop/StyleShopping (1)/StyleShopping/StyleShopping/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-54ic1qfrh5

@@ -1,0 +1,51 @@
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\DAO.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\bin\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\SHD\Desktop\Style\Style\StyleShopping\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\DAO.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\bin\Debug\net6.0\DAO.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\SHD\Downloads\StyleShopping\StyleShopping\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\DAO.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\bin\Debug\net6.0\DAO.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\Repository\obj\Debug\net6.0\ref\Repository.dll
