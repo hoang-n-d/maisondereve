@@ -9,331 +9,331 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StyleShopping
 build_property.RootNamespace = StyleShopping
-build_property.ProjectDir = C:\Users\ngusi\Desktop\maisondereve\StyleShopping\
+build_property.ProjectDir = C:\Users\ngusi\Desktop\New folder\maisondereve\StyleShopping\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ngusi\Desktop\maisondereve\StyleShopping
+build_property.MSBuildProjectDirectory = C:\Users\ngusi\Desktop\New folder\maisondereve\StyleShopping
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/AccessDenied.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/AddCart.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/AddCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ActiveAccount.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ActiveAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ActiveBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ActiveBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ActiveInterior.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ActiveInterior.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlSW50ZXJpb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ActiveProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ActiveProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ActiveStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ActiveStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWN0aXZlU3R5bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddAccount.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddCategory.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddInterior.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddInterior.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkSW50ZXJpb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/AddStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/AddStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkU3R5bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ApproveOrder.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ApproveOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXBwcm92ZU9yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BeStaff.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BeStaff.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmVTdGFmZi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BeUser.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BeUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmVVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BlockAccount.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BlockAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BlockBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BlockBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BlockInterior.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BlockInterior.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tJbnRlcmlvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BlockProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BlockProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tQcm9qZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/BlockStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/BlockStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvY2tTdHlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ChangeOrderStatus.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ChangeOrderStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2hhbmdlT3JkZXJTdGF0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditAccount.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEFjY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditCategory.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditInterior.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditInterior.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEludGVyaW9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2plY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/EditStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/EditStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFN0eWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/Logout.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageAccount.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageCategory.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageDashboard.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageInterior.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageInterior.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlSW50ZXJpb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageOrder.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/ManageStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/ManageStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlU3R5bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Admin/OrderDetail.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Admin/OrderDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Blog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/CancelOrder.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/CancelOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuY2VsT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Checkout.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Detail.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/DetailBlog.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/DetailBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/DetailProject.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/DetailProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/DetailStyle.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/DetailStyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsU3R5bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Error.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Index.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Login.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Logout.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/MyOrder.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/MyOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/MyOrderDetail.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/MyOrderDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlckRldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Privacy.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Profile.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Project.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Project.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/RemoveCart.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/RemoveCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVtb3ZlQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Shared/_ChangeOrderStatus.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Shared/_ChangeOrderStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9DaGFuZ2VPcmRlclN0YXR1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Shared/_OrderStatus.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Shared/_OrderStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9PcmRlclN0YXR1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/ShowCart.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/ShowCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/BlogActive.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/BlogActive.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0FjdGl2ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/BlogAdd.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/BlogAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0FkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/BlogBlock.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/BlogBlock.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0Jsb2NrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/BlogEdit.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/BlogEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/BlogManage.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/BlogManage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQmxvZ01hbmFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/InteriorActive.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/InteriorActive.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JBY3RpdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/InteriorAdd.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/InteriorAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/InteriorBlock.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/InteriorBlock.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JCbG9jay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/InteriorEdit.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/InteriorEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/InteriorManage.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/InteriorManage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW50ZXJpb3JNYW5hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/Logout.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/ProjectActive.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/ProjectActive.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEFjdGl2ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/ProjectAdd.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/ProjectAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/ProjectBlock.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/ProjectBlock.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEJsb2NrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/ProjectEdit.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/ProjectEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Staff/ProjectManage.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Staff/ProjectManage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcUHJvamVjdE1hbmFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Style.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Style.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R5bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/UpdateCart.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/UpdateCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/_ViewImports.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/_ViewStart.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngusi/Desktop/maisondereve/StyleShopping/Pages/Shared/_Layout.cshtml]
+[C:/Users/ngusi/Desktop/New folder/maisondereve/StyleShopping/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-54ic1qfrh5

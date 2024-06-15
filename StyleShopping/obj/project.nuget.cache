@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyvQGUv9NO8=",
+  "dgSpecHash": "R1O0Cnk3jtc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\StyleShopping\\StyleShopping.csproj",
+  "projectFilePath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\StyleShopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngusi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ngusi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

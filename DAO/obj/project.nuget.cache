@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Aa6MefbOgk=",
+  "dgSpecHash": "4jb/rhEzaa8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj",
+  "projectFilePath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\DAO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngusi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ngusi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

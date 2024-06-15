@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|c:\\users\\ngusi\\desktop\\new folder\\maisondereve\\styleshopping\\pages\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|solutionrelative:styleshopping\\pages\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|c:\\users\\ngusi\\desktop\\new folder\\maisondereve\\styleshopping\\pages\\myorderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|solutionrelative:styleshopping\\pages\\myorderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|c:\\users\\ngusi\\desktop\\new folder\\maisondereve\\styleshopping\\pages\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BF6B8C-EADC-4930-991A-6B28F7753A1A}|StyleShopping\\StyleShopping.csproj|solutionrelative:styleshopping\\pages\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\ShowCart.cshtml",
+              "RelativeDocumentMoniker": "StyleShopping\\Pages\\ShowCart.cshtml",
+              "ToolTip": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\ShowCart.cshtml",
+              "RelativeToolTip": "StyleShopping\\Pages\\ShowCart.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAADgv0UAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T10:32:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOrderDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\MyOrderDetail.cshtml",
+              "RelativeDocumentMoniker": "StyleShopping\\Pages\\MyOrderDetail.cshtml",
+              "ToolTip": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\MyOrderDetail.cshtml",
+              "RelativeToolTip": "StyleShopping\\Pages\\MyOrderDetail.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T10:32:33.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\Admin\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "StyleShopping\\Pages\\Admin\\OrderDetail.cshtml",
+              "ToolTip": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\StyleShopping\\Pages\\Admin\\OrderDetail.cshtml",
+              "RelativeToolTip": "StyleShopping\\Pages\\Admin\\OrderDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T10:31:37.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

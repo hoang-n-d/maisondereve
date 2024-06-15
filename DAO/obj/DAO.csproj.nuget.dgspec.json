@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj": {}
+    "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\DAO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\BussinessObject.csproj",
         "projectName": "BussinessObject",
-        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\BussinessObject.csproj",
         "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\obj\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,21 +75,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
-        }
       }
     },
-    "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\DAO.csproj",
         "projectName": "DAO",
-        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\DAO.csproj",
         "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\obj\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\DAO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj"
+              "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\New folder\\maisondereve\\BussinessObject\\BussinessObject.csproj"
               }
             }
           }
@@ -144,11 +139,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
