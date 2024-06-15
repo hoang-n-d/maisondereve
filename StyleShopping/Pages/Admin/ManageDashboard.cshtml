@@ -62,18 +62,18 @@
 
 <div class="container">
 
-    <canvas id="myChart" width="400" height="200"></canvas>
+   
 
     <div class="row">
         @if (Model.OrderStatiscal != null)
         {
             foreach (var item in Model.OrderStatiscal.OrderStatusCount)
             {
-                <div class="col-md-4 col-xl-3">
-                    <div class="card bg-c-blue order-card">
+                <div class="col-md-4 col-xl-3" >
+                    <div class="card bg-c-blue order-card" style="height:130px">
                         <div class="card-block">
                             <h6 class="m-b-20">@await Html.PartialAsync("_OrderStatus", new Tuple<int>(item.Status))</h6>
-                            <p class="m-b-0">Completed Orders<span class="f-right"> <h2 class="text-right"><span>@item.Count</span></h2></span></p>
+                            <p class="m-b-0">Completed Orders<span class="f-right"> <h5 style="font-size:12px" class="f-left">01/2024-12/2024</h5><h2 class="text-right"><span>@item.Count</span></h2></span></p>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                 <div class="card-block">
                     <h6class ="m-b-20">
                         Orders Statistic</h6>
-                        <p class="m-b-0">Total  Revenue<span class="f-right"> <h2 class="text-right"><span>@Model.totalRevenue</span></h2></span></p>
+                        <p class="m-b-0">Total  Revenue<span class="f-right"><h5 style="font-size:12px" class="f-left">01/2024-12/2024</h5> <h2 class="text-right"><span>@Model.totalRevenue</span></h2></span></p>
                 </div>
             </div>
         </div>
@@ -94,11 +94,14 @@
             <div class="card bg-c-pink order-card">
                 <div class="card-block">
                     <h6 class="m-b-20">Customer Statistic</h6>
-                    <p class="m-b-0">Total  Revenue<span class="f-right"> <h2 class="text-right"><span>@Model.totalRevenue</span></h2></span></p>
+                    <p class="m-b-0">Total  Revenue<span class="f-right"> <h5 style="font-size:12px" class="f-left">01/2024-12/2024</h5> <h2 class="text-right"><span>@Model.totalRevenue</span></h2></span></p>
                 </div>
             </div>
         </div>
     </div>
+
+     <canvas id="myChart" width="400" height="200"></canvas>
+
 </div>
 @section Scripts {
     <script>

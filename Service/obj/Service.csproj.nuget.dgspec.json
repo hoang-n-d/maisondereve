@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MMO\\maisondereve\\Service\\Service.csproj": {}
+    "C:\\Users\\ngusi\\Desktop\\maisondereve\\Service\\Service.csproj": {}
   },
   "projects": {
-    "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj",
         "projectName": "BussinessObject",
-        "projectPath": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj",
-        "packagesPath": "C:\\Users\\vietd\\.nuget\\packages\\",
-        "outputPath": "D:\\MMO\\maisondereve\\BussinessObject\\obj\\",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj",
+        "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,21 +73,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     },
-    "D:\\MMO\\maisondereve\\DAO\\DAO.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MMO\\maisondereve\\DAO\\DAO.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj",
         "projectName": "DAO",
-        "projectPath": "D:\\MMO\\maisondereve\\DAO\\DAO.csproj",
-        "packagesPath": "C:\\Users\\vietd\\.nuget\\packages\\",
-        "outputPath": "D:\\MMO\\maisondereve\\DAO\\obj\\",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj",
+        "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,14 +100,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj"
+              "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj"
               }
             }
           }
@@ -136,21 +143,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     },
-    "D:\\MMO\\maisondereve\\Repository\\Repository.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MMO\\maisondereve\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\MMO\\maisondereve\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\vietd\\.nuget\\packages\\",
-        "outputPath": "D:\\MMO\\maisondereve\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,17 +170,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj"
+              "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj"
               },
-              "D:\\MMO\\maisondereve\\DAO\\DAO.csproj": {
-                "projectPath": "D:\\MMO\\maisondereve\\DAO\\DAO.csproj"
+              "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\DAO\\DAO.csproj"
               }
             }
           }
@@ -203,21 +216,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     },
-    "D:\\MMO\\maisondereve\\Service\\Service.csproj": {
+    "C:\\Users\\ngusi\\Desktop\\maisondereve\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MMO\\maisondereve\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\MMO\\maisondereve\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\vietd\\.nuget\\packages\\",
-        "outputPath": "D:\\MMO\\maisondereve\\Service\\obj\\",
+        "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\ngusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,17 +243,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "D:\\MMO\\maisondereve\\BussinessObject\\BussinessObject.csproj"
+              "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\BussinessObject\\BussinessObject.csproj"
               },
-              "D:\\MMO\\maisondereve\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\MMO\\maisondereve\\Repository\\Repository.csproj"
+              "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ngusi\\Desktop\\maisondereve\\Repository\\Repository.csproj"
               }
             }
           }
@@ -270,7 +289,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

@@ -12,3 +12,18 @@ C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\BussinessObject\obj\Relea
 C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\BussinessObject\obj\Release\net6.0\BussinessObject.pdb
 C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\BussinessObject\obj\Release\net6.0\BussinessObject.genruntimeconfig.cache
 C:\Users\ngusi\Desktop\StyleShopping (1)\StyleShopping\BussinessObject\obj\Release\net6.0\ref\BussinessObject.dll
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\bin\Release\net6.0\BussinessObject.deps.json
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\bin\Release\net6.0\BussinessObject.runtimeconfig.json
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\bin\Release\net6.0\BussinessObject.dll
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\bin\Release\net6.0\BussinessObject.pdb
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.csproj.AssemblyReference.cache
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.AssemblyInfo.cs
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.sourcelink.json
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.dll
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\refint\BussinessObject.dll
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.pdb
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\BussinessObject.genruntimeconfig.cache
+C:\Users\ngusi\Desktop\maisondereve\BussinessObject\obj\Release\net6.0\ref\BussinessObject.dll
